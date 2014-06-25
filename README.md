@@ -1,4 +1,0 @@
-Gaia
-====
-
-Just another teste
