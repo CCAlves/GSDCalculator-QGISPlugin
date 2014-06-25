@@ -1,0 +1,8 @@
+The directory __RasterCache__ contains the rasters downloaded
+Inside of it, there is a directory called Temp
+Do not ever delete this directory or the Temp directory
+That one is crucial to the plugin work
+It's used to create temporary files
+These files are deleted when the processing ends
+
+If you already fucked all the thing up, create this folders manually
