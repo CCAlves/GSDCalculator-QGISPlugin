@@ -1,0 +1,2 @@
+GSDCalculator-QGISPlugin
+========================
