@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/terraindatamanipulator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
